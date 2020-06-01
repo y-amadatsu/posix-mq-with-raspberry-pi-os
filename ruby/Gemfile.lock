@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    posix-mqueue (0.0.8)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  posix-mqueue
+
+BUNDLED WITH
+   1.17.3
